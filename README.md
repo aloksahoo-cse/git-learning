@@ -1,4 +1,4 @@
 # git-learning
 Git learning
 <br>
-Author - Alok Sahoo(Bangalore)
+Author - Alok Sahoo (Bangalore)
