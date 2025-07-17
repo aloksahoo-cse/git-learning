@@ -2,8 +2,17 @@ git --version
 git config --list
 git config --global user.name "git hub user name"
 git config --global user.email "git hub email id"
+
+To clone existing repo
 git clone <repositiry link>
 git status
 git add <file name or .>
 git commit -m "message" <file name or .>
+git push origin main
+
+To push new repo created in system to remote repo(after creating a new repo in git hub)
+git remote add origin <repo link>
+git remote -v (to verify remote)
+git branch (to check branch)
+git branch -M main (to rename branch)
 git push origin main
