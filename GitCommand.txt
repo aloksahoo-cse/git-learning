@@ -23,3 +23,13 @@ git branch -M main (to rename branch)
 git checkout <branch name> (to navigate)
 git checkout -b <new branch name> (new branch name)
 git branch -d <branch name> (delete a branch)
+
+merging code
+way1
+git diff <branch name> (to compare commits, branches, files and more)
+git merge <branch name> (to merge 2 branches)
+way2
+Create a PR(pull request)
+
+pull command
+git pull origin main
