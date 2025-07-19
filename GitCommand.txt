@@ -33,3 +33,13 @@ Create a PR(pull request)
 
 pull command
 git pull origin main
+
+Undoing changes
+case1: staged changes
+git reset <file name>
+git reset
+case2: commited changes (for one commit)
+git reset HEAD~1
+case:3 commited changes (for many commits)
+git reset <commit hash>
+git reset --hard <commit hash>
