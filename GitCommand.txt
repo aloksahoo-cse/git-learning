@@ -43,3 +43,7 @@ git reset HEAD~1
 case:3 commited changes (for many commits)
 git reset <commit hash>
 git reset --hard <commit hash>
+
+git log (to check commit log)
+
+fork (fork is a new repositiry that shares code and visibility settings with the original "upstream" repositiry)
