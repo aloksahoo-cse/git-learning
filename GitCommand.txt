@@ -10,7 +10,7 @@ git add <file name or .>
 git commit -m "message" <file name or .>
 git push origin main
 
-To push new repo created in system to remote repo(after creating a new repo in git hub)
+To push new repo created in system to remote repo(after creating a new repo in git hub and updating folder in system to git repo with git init command)
 git remote add origin <repo link>
 git remote -v (to verify remote)
 git branch (to check branch)
